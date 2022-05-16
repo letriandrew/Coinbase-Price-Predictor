@@ -12,7 +12,10 @@ To begin this analysis, Azure Sentinal must be set up. We will use Sentinal as a
 <br />
 
 <h2>Version History</h2>
+- <b>[v0.1.0]:</b>
 
 <h2>Milestones to reach</h2>
+- <b></b>
 
 <h2>Current Tasks</h2>
+- <b></b>
